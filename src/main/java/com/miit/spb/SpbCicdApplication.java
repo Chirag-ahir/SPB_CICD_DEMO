@@ -3,7 +3,8 @@ package com.miit.spb;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//author: chirag
+//author: chirag : this project describes complete CICD pipeline
+
 @SpringBootApplication
 public class SpbCicdApplication {
 
