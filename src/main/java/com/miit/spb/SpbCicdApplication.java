@@ -3,7 +3,7 @@ package com.miit.spb;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//author: chirag
+//author: chirag//
 @SpringBootApplication
 public class SpbCicdApplication {
 
